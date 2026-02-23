@@ -18,3 +18,5 @@ git clone https://github.com/skills/communicate-using-markdown
 ```js
 var myVar = "Hello, world!";
 ```
+![Mona the Octocat](myrepo/original.png)
+![Mona the Octocat](https://octodex.github.com/images/original.png)
